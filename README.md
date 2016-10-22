@@ -7,6 +7,7 @@
             <li><a href="serotonin.md">Серотонин</a></li>
             <li><a href="acetilholin.md">Ацетилхолин</a></li>
             <li><a href="adenozin.md">Аденозин</a></li>
+            <li><a href="glutamat.md">Глютамат</a></li>
         </ul>
 
     </li>
