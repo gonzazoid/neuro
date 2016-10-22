@@ -6,6 +6,7 @@
             <li><a href="noradrenalin.md">Норадреналин</a></li>
             <li><a href="serotonin.md">Серотонин</a></li>
             <li><a href="acetilholin.md">Ацетилхолин</a></li>
+            <li><a href="adenozin.md">Аденозин</a></li>
         </ul>
 
     </li>
