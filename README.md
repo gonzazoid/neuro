@@ -8,6 +8,7 @@
             <li><a href="acetilholin.md">Ацетилхолин</a></li>
             <li><a href="adenozin.md">Аденозин</a></li>
             <li><a href="glutamat.md">Глютамат</a></li>
+            <li><a href="gammaamin.md">Гамма-аминомасляная кислота</a></li>
         </ul>
 
     </li>
